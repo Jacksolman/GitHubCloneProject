@@ -1,1 +1,3 @@
-This is the description of my repo
+## GitHubCloneProject Task
+
+Objective: Learn Git branching, merging, and conflict resolution.
